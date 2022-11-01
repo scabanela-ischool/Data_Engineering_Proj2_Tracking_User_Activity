@@ -1,4 +1,4 @@
-# Project 2 Instructions
+# Project 2: Tracking User Activity Instructions
 
 ## Introduction
 
